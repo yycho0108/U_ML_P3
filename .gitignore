@@ -30,3 +30,6 @@ Session.vim
 # auto-generated tag files
 tags
 
+# extra
+*.pdf
+*.zip
